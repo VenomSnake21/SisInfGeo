@@ -1,0 +1,11 @@
+c:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.runtimeconfig.dev.json
+c:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.dll
+c:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.pdb
+c:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.csprojAssemblyReference.cache
+c:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.AssemblyInfoInputs.cache
+c:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.AssemblyInfo.cs
+c:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.dll
+c:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.pdb
