@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\03.areatriangulo\bin\Debug\netcoreapp3.1\03.areatriangulo.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\03.areatriangulo\bin\Debug\netcoreapp3.1\03.areatriangulo.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\03.areatriangulo\bin\Debug\netcoreapp3.1\03.areatriangulo.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\03.areatriangulo\bin\Debug\netcoreapp3.1\03.areatriangulo.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\03.areatriangulo\bin\Debug\netcoreapp3.1\03.areatriangulo.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\03.areatriangulo\bin\Debug\netcoreapp3.1\03.areatriangulo.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\03.areatriangulo\obj\Debug\netcoreapp3.1\03.areatriangulo.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\03.areatriangulo\obj\Debug\netcoreapp3.1\03.areatriangulo.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\03.areatriangulo\obj\Debug\netcoreapp3.1\03.areatriangulo.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\03.areatriangulo\obj\Debug\netcoreapp3.1\03.areatriangulo.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\03.areatriangulo\obj\Debug\netcoreapp3.1\03.areatriangulo.pdb
