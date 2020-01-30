@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\01.holamundo\bin\Debug\netcoreapp3.1\01.holamundo.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\01.holamundo\obj\Debug\netcoreapp3.1\01.holamundo.pdb
