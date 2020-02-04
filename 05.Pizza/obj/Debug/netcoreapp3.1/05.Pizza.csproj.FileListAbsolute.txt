@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\05.Pizza\obj\Debug\netcoreapp3.1\05.Pizza.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\05.Pizza\obj\Debug\netcoreapp3.1\05.Pizza.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\05.Pizza\obj\Debug\netcoreapp3.1\05.Pizza.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\05.Pizza\bin\Debug\netcoreapp3.1\05.Pizza.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\05.Pizza\bin\Debug\netcoreapp3.1\05.Pizza.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\05.Pizza\bin\Debug\netcoreapp3.1\05.Pizza.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\05.Pizza\bin\Debug\netcoreapp3.1\05.Pizza.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\05.Pizza\bin\Debug\netcoreapp3.1\05.Pizza.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\05.Pizza\bin\Debug\netcoreapp3.1\05.Pizza.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\05.Pizza\obj\Debug\netcoreapp3.1\05.Pizza.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\05.Pizza\obj\Debug\netcoreapp3.1\05.Pizza.pdb

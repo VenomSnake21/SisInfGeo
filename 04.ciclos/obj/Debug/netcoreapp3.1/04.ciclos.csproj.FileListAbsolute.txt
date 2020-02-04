@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.pdb
