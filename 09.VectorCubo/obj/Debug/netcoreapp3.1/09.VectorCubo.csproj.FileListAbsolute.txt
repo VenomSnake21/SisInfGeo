@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\09.VectorCubo\bin\Debug\netcoreapp3.1\09.VectorCubo.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\09.VectorCubo\bin\Debug\netcoreapp3.1\09.VectorCubo.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\09.VectorCubo\bin\Debug\netcoreapp3.1\09.VectorCubo.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\09.VectorCubo\bin\Debug\netcoreapp3.1\09.VectorCubo.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\09.VectorCubo\bin\Debug\netcoreapp3.1\09.VectorCubo.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\09.VectorCubo\bin\Debug\netcoreapp3.1\09.VectorCubo.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\09.VectorCubo\obj\Debug\netcoreapp3.1\09.VectorCubo.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\09.VectorCubo\obj\Debug\netcoreapp3.1\09.VectorCubo.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\09.VectorCubo\obj\Debug\netcoreapp3.1\09.VectorCubo.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\09.VectorCubo\obj\Debug\netcoreapp3.1\09.VectorCubo.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\09.VectorCubo\obj\Debug\netcoreapp3.1\09.VectorCubo.pdb

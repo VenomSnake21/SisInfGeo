@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\08.VectorAleatorio\bin\Debug\netcoreapp3.1\08.VectorAleatorio.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\08.VectorAleatorio\bin\Debug\netcoreapp3.1\08.VectorAleatorio.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\08.VectorAleatorio\bin\Debug\netcoreapp3.1\08.VectorAleatorio.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\08.VectorAleatorio\bin\Debug\netcoreapp3.1\08.VectorAleatorio.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\08.VectorAleatorio\bin\Debug\netcoreapp3.1\08.VectorAleatorio.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\08.VectorAleatorio\bin\Debug\netcoreapp3.1\08.VectorAleatorio.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\08.VectorAleatorio\obj\Debug\netcoreapp3.1\08.VectorAleatorio.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\08.VectorAleatorio\obj\Debug\netcoreapp3.1\08.VectorAleatorio.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\08.VectorAleatorio\obj\Debug\netcoreapp3.1\08.VectorAleatorio.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\08.VectorAleatorio\obj\Debug\netcoreapp3.1\08.VectorAleatorio.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\08.VectorAleatorio\obj\Debug\netcoreapp3.1\08.VectorAleatorio.pdb

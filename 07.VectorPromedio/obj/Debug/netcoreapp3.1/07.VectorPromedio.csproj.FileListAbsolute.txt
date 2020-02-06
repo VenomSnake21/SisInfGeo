@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\07.VectorPromedio\bin\Debug\netcoreapp3.1\07.VectorPromedio.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\07.VectorPromedio\bin\Debug\netcoreapp3.1\07.VectorPromedio.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\07.VectorPromedio\bin\Debug\netcoreapp3.1\07.VectorPromedio.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\07.VectorPromedio\bin\Debug\netcoreapp3.1\07.VectorPromedio.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\07.VectorPromedio\bin\Debug\netcoreapp3.1\07.VectorPromedio.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\07.VectorPromedio\bin\Debug\netcoreapp3.1\07.VectorPromedio.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\07.VectorPromedio\obj\Debug\netcoreapp3.1\07.VectorPromedio.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\07.VectorPromedio\obj\Debug\netcoreapp3.1\07.VectorPromedio.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\07.VectorPromedio\obj\Debug\netcoreapp3.1\07.VectorPromedio.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\07.VectorPromedio\obj\Debug\netcoreapp3.1\07.VectorPromedio.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\07.VectorPromedio\obj\Debug\netcoreapp3.1\07.VectorPromedio.pdb
