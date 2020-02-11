@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\13.VectorEstadistico\obj\Debug\netcoreapp3.1\13.VectorEstadistico.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\13.VectorEstadistico\obj\Debug\netcoreapp3.1\13.VectorEstadistico.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\13.VectorEstadistico\obj\Debug\netcoreapp3.1\13.VectorEstadistico.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\13.VectorEstadistico\bin\Debug\netcoreapp3.1\13.VectorEstadistico.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\13.VectorEstadistico\bin\Debug\netcoreapp3.1\13.VectorEstadistico.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\13.VectorEstadistico\bin\Debug\netcoreapp3.1\13.VectorEstadistico.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\13.VectorEstadistico\bin\Debug\netcoreapp3.1\13.VectorEstadistico.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\13.VectorEstadistico\bin\Debug\netcoreapp3.1\13.VectorEstadistico.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\13.VectorEstadistico\bin\Debug\netcoreapp3.1\13.VectorEstadistico.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\13.VectorEstadistico\obj\Debug\netcoreapp3.1\13.VectorEstadistico.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\13.VectorEstadistico\obj\Debug\netcoreapp3.1\13.VectorEstadistico.pdb

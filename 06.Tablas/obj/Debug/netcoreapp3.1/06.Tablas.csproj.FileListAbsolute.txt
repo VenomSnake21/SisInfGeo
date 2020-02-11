@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\06.Tablas\obj\Debug\netcoreapp3.1\06.Tablas.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\06.Tablas\obj\Debug\netcoreapp3.1\06.Tablas.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\06.Tablas\obj\Debug\netcoreapp3.1\06.Tablas.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\06.Tablas\bin\Debug\netcoreapp3.1\06.Tablas.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\06.Tablas\bin\Debug\netcoreapp3.1\06.Tablas.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\06.Tablas\bin\Debug\netcoreapp3.1\06.Tablas.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\06.Tablas\bin\Debug\netcoreapp3.1\06.Tablas.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\06.Tablas\bin\Debug\netcoreapp3.1\06.Tablas.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\06.Tablas\bin\Debug\netcoreapp3.1\06.Tablas.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\06.Tablas\obj\Debug\netcoreapp3.1\06.Tablas.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\06.Tablas\obj\Debug\netcoreapp3.1\06.Tablas.pdb

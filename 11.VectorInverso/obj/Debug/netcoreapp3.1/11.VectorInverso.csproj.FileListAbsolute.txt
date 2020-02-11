@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\11.VectorInverso\obj\Debug\netcoreapp3.1\11.VectorInverso.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\11.VectorInverso\obj\Debug\netcoreapp3.1\11.VectorInverso.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\11.VectorInverso\obj\Debug\netcoreapp3.1\11.VectorInverso.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\11.VectorInverso\bin\Debug\netcoreapp3.1\11.VectorInverso.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\11.VectorInverso\bin\Debug\netcoreapp3.1\11.VectorInverso.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\11.VectorInverso\bin\Debug\netcoreapp3.1\11.VectorInverso.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\11.VectorInverso\bin\Debug\netcoreapp3.1\11.VectorInverso.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\11.VectorInverso\bin\Debug\netcoreapp3.1\11.VectorInverso.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\11.VectorInverso\bin\Debug\netcoreapp3.1\11.VectorInverso.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\11.VectorInverso\obj\Debug\netcoreapp3.1\11.VectorInverso.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\11.VectorInverso\obj\Debug\netcoreapp3.1\11.VectorInverso.pdb

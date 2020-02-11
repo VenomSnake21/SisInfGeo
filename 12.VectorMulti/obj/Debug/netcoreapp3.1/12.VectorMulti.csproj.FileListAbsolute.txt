@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\12.VectorMulti\obj\Debug\netcoreapp3.1\12.VectorMulti.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\12.VectorMulti\obj\Debug\netcoreapp3.1\12.VectorMulti.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\12.VectorMulti\obj\Debug\netcoreapp3.1\12.VectorMulti.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\12.VectorMulti\bin\Debug\netcoreapp3.1\12.VectorMulti.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\12.VectorMulti\bin\Debug\netcoreapp3.1\12.VectorMulti.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\12.VectorMulti\bin\Debug\netcoreapp3.1\12.VectorMulti.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\12.VectorMulti\bin\Debug\netcoreapp3.1\12.VectorMulti.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\12.VectorMulti\bin\Debug\netcoreapp3.1\12.VectorMulti.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\12.VectorMulti\bin\Debug\netcoreapp3.1\12.VectorMulti.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\12.VectorMulti\obj\Debug\netcoreapp3.1\12.VectorMulti.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\12.VectorMulti\obj\Debug\netcoreapp3.1\12.VectorMulti.pdb
