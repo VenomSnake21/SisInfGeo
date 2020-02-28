@@ -1,0 +1,16 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\14.CuentaBancaria\bin\Debug\netcoreapp3.1\14.CuentaBancaria.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\14.CuentaBancaria\bin\Debug\netcoreapp3.1\14.CuentaBancaria.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\14.CuentaBancaria\bin\Debug\netcoreapp3.1\14.CuentaBancaria.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\14.CuentaBancaria\bin\Debug\netcoreapp3.1\14.CuentaBancaria.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\14.CuentaBancaria\bin\Debug\netcoreapp3.1\14.CuentaBancaria.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\14.CuentaBancaria\bin\Debug\netcoreapp3.1\14.CuentaBancaria.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\14.CuentaBancaria\obj\Debug\netcoreapp3.1\14.CuentaBancaria.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\14.CuentaBancaria\obj\Debug\netcoreapp3.1\14.CuentaBancaria.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\14.CuentaBancaria\obj\Debug\netcoreapp3.1\14.CuentaBancaria.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\14.CuentaBancaria\obj\Debug\netcoreapp3.1\14.CuentaBancaria.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\14.CuentaBancaria\obj\Debug\netcoreapp3.1\14.CuentaBancaria.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\15.CuentaBancariav2\obj\Debug\netcoreapp3.1\14.CuentaBancaria.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\15.CuentaBancariav2\obj\Debug\netcoreapp3.1\14.CuentaBancaria.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\15.CuentaBancariav2\obj\Debug\netcoreapp3.1\14.CuentaBancaria.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\15.CuentaBancariav2\obj\Debug\netcoreapp3.1\14.CuentaBancaria.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\15.CuentaBancariav2\obj\Debug\netcoreapp3.1\14.CuentaBancaria.pdb

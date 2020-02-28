@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/castr/.dotnet/store/|arch|/|tfm|",
+      "/Users/castr/.nuget/packages"
+    ]
+  }
+}

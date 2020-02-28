@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E1.PrimerParcial\obj\Debug\netcoreapp3.1\E1.PrimerParcial.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E1.PrimerParcial\obj\Debug\netcoreapp3.1\E1.PrimerParcial.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E1.PrimerParcial\obj\Debug\netcoreapp3.1\E1.PrimerParcial.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E1.PrimerParcial\bin\Debug\netcoreapp3.1\E1.PrimerParcial.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E1.PrimerParcial\bin\Debug\netcoreapp3.1\E1.PrimerParcial.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E1.PrimerParcial\bin\Debug\netcoreapp3.1\E1.PrimerParcial.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E1.PrimerParcial\bin\Debug\netcoreapp3.1\E1.PrimerParcial.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E1.PrimerParcial\bin\Debug\netcoreapp3.1\E1.PrimerParcial.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E1.PrimerParcial\bin\Debug\netcoreapp3.1\E1.PrimerParcial.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E1.PrimerParcial\obj\Debug\netcoreapp3.1\E1.PrimerParcial.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E1.PrimerParcial\obj\Debug\netcoreapp3.1\E1.PrimerParcial.pdb
