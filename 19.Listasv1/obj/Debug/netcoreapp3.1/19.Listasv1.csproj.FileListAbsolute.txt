@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\19.Listasv1\obj\Debug\netcoreapp3.1\19.Listasv1.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\19.Listasv1\obj\Debug\netcoreapp3.1\19.Listasv1.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\19.Listasv1\obj\Debug\netcoreapp3.1\19.Listasv1.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\19.Listasv1\bin\Debug\netcoreapp3.1\19.Listasv1.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\19.Listasv1\bin\Debug\netcoreapp3.1\19.Listasv1.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\19.Listasv1\bin\Debug\netcoreapp3.1\19.Listasv1.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\19.Listasv1\bin\Debug\netcoreapp3.1\19.Listasv1.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\19.Listasv1\bin\Debug\netcoreapp3.1\19.Listasv1.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\19.Listasv1\bin\Debug\netcoreapp3.1\19.Listasv1.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\19.Listasv1\obj\Debug\netcoreapp3.1\19.Listasv1.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\19.Listasv1\obj\Debug\netcoreapp3.1\19.Listasv1.pdb

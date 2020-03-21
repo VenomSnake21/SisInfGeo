@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.pdb
