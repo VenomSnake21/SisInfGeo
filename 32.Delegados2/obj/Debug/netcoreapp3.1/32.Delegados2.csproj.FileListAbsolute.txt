@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\32.Delegados2\bin\Debug\netcoreapp3.1\32.Delegados2.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\32.Delegados2\bin\Debug\netcoreapp3.1\32.Delegados2.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\32.Delegados2\bin\Debug\netcoreapp3.1\32.Delegados2.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\32.Delegados2\bin\Debug\netcoreapp3.1\32.Delegados2.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\32.Delegados2\bin\Debug\netcoreapp3.1\32.Delegados2.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\32.Delegados2\bin\Debug\netcoreapp3.1\32.Delegados2.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\32.Delegados2\obj\Debug\netcoreapp3.1\32.Delegados2.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\32.Delegados2\obj\Debug\netcoreapp3.1\32.Delegados2.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\32.Delegados2\obj\Debug\netcoreapp3.1\32.Delegados2.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\32.Delegados2\obj\Debug\netcoreapp3.1\32.Delegados2.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\32.Delegados2\obj\Debug\netcoreapp3.1\32.Delegados2.pdb
