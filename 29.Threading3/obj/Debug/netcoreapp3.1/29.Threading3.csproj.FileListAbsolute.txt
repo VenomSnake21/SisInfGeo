@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\29.Threading3\bin\Debug\netcoreapp3.1\29.Threading3.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\29.Threading3\bin\Debug\netcoreapp3.1\29.Threading3.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\29.Threading3\bin\Debug\netcoreapp3.1\29.Threading3.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\29.Threading3\bin\Debug\netcoreapp3.1\29.Threading3.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\29.Threading3\bin\Debug\netcoreapp3.1\29.Threading3.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\29.Threading3\bin\Debug\netcoreapp3.1\29.Threading3.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\29.Threading3\obj\Debug\netcoreapp3.1\29.Threading3.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\29.Threading3\obj\Debug\netcoreapp3.1\29.Threading3.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\29.Threading3\obj\Debug\netcoreapp3.1\29.Threading3.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\29.Threading3\obj\Debug\netcoreapp3.1\29.Threading3.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\29.Threading3\obj\Debug\netcoreapp3.1\29.Threading3.pdb
