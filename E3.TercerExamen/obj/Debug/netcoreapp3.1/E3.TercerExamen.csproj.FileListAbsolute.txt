@@ -1,0 +1,11 @@
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E3.TercerExamen\obj\Debug\netcoreapp3.1\E3.TercerExamen.csprojAssemblyReference.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E3.TercerExamen\obj\Debug\netcoreapp3.1\E3.TercerExamen.AssemblyInfoInputs.cache
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E3.TercerExamen\obj\Debug\netcoreapp3.1\E3.TercerExamen.AssemblyInfo.cs
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E3.TercerExamen\bin\Debug\netcoreapp3.1\E3.TercerExamen.exe
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E3.TercerExamen\bin\Debug\netcoreapp3.1\E3.TercerExamen.deps.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E3.TercerExamen\bin\Debug\netcoreapp3.1\E3.TercerExamen.runtimeconfig.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E3.TercerExamen\bin\Debug\netcoreapp3.1\E3.TercerExamen.runtimeconfig.dev.json
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E3.TercerExamen\bin\Debug\netcoreapp3.1\E3.TercerExamen.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E3.TercerExamen\bin\Debug\netcoreapp3.1\E3.TercerExamen.pdb
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E3.TercerExamen\obj\Debug\netcoreapp3.1\E3.TercerExamen.dll
+C:\Users\arkan\Desktop\Programacion\Sis Inf Geo\SisInfGeo-1\E3.TercerExamen\obj\Debug\netcoreapp3.1\E3.TercerExamen.pdb

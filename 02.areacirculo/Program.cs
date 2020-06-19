@@ -1,4 +1,4 @@
-﻿using System;
+﻿==using System;
 
 namespace _02.areacirculo
 {
@@ -7,7 +7,7 @@ namespace _02.areacirculo
         static void Main(string[] args)
         {   
             double radio, area;
-
+=
             Console.WriteLine("programa que calcula el area de un circulo");
 
             Console.WriteLine("Dame el radio: ");
